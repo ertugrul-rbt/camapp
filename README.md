@@ -1,2 +1,0 @@
-# camapp
-cam application test
